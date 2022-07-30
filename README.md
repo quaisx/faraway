@@ -8,3 +8,11 @@ Design and implement _“Word of Wisdom”_ tcp server.
  - Docker file should be provided both for the server and for the client that solves the POW challenge
  
  By default the server runs on the port 8080 and the client picks an ephemeral port and connects to the server.
+ 
+ PoW Wisdom Quote Server:
+ ![PoW Quote Server](/images/server.jpeg)
+ 
+ PoW Wisdom Quote Client:
+ ![PoW Quote Client](/images/client.jpeg)
+ 
+ 
