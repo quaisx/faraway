@@ -1,5 +1,5 @@
 # POW guard against DDOS
-Simplified demo version which does not contain a fully guarded against DDoS atacks. It simply shows how a _pow_ request can be used to protect TCP servers from abusing client requests.
+Simplified demo version which does not contain a fully guarded against DDoS atacks code. It simply shows how a _pow_ request can be used to protect TCP servers from abusing client requests.
 ---
 
 Goal: create a server/client with PoW to guard against DDoS attacks
