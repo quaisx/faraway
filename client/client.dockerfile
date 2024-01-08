@@ -1,5 +1,5 @@
 # base go image
-FROM golang:1.18-alpine as  client
+FROM golang:1.21-alpine as  client
 
 RUN mkdir /app
 
